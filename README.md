@@ -12,5 +12,5 @@ Copy the following dll's into the 'Inspectors' folder of your fiddler installati
  
  You should see a new tab that says "JWT Decode" in the response pane of the inspectors tab.  Also, don't forget to check out "SPOAuth" which is also circled in red. 
 
- ![Image of JWT Decode](https://raw.githubusercontent.com/grayjeremy/FiddlerJwtDecode/master/screenshot.png)
+ ![Image of JWT Decode](https://raw.githubusercontent.com/grayjeremy/FiddlerPlugin-JwtDecode/master/screenshot.png)
 
